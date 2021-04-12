@@ -1,2 +1,2 @@
-# merge-conflict
-Practice merge conflict
+# Merge conflict
+Practice dealing with a merge conflict
